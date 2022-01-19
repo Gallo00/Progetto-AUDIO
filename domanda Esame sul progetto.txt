@@ -1,0 +1,6 @@
+Come fu sfruttato il "pop" anomalo del chip SID da parte dei musicisti ?
+
+-V : per simulare un "quarto" canale
+-F : per riprodurre frequenze non comprese nel range [16,4000] che aveva a disposizione il chip.
+-F : per segnalare errori hardware
+-V : per riprodurre  delle note come se fossero suonate da degli strumenti a percussione
