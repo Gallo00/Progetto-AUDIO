@@ -1,3 +1,2 @@
 # Progetto-AUDIO
-progetto audio processing SAMUELE, MARTIN MANUEL
-mammt a pecr
+progetto audio processing SAMUELE MARIA GALLINA, MARTIN GIBILTERRA E MANUEL COMIS
